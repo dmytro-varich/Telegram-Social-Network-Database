@@ -10,7 +10,7 @@ After formulating a description for each table, we proceed to create an ER-diagr
 The actual creation of tables and their subsequent population with data was carried out using the Oracle SQL language and its object-relational system. Simple CREATE and INSERT commands allowed us to fulfill the first part of the task and begin with the second part.
 
 ## ER-diagram
-![ER-diagram](dmytro-varich/Telegram-Social-Network-Database/Telegram_Social_Network_Database-ER-diagram.drawio.png)   
+![ER-diagram](https://github.com/dmytro-varich/Telegram-Social-Network-Database/blob/main/Telegram_Social_Network_Database-ER-diagram.drawio.png)   
 
 ## Relational Schema
 ![Relational Schema](dmytro-varich/Telegram-Social-Network-Database/Telegram_Social_Network_Database-Relational-Schema.drawio.png)
