@@ -12,10 +12,10 @@ The actual creation of tables and their subsequent population with data was carr
 The second part includes operations such as `DROP` and `TRUNCATE`, solely to demonstrate our skills and knowledge in their usage. However, the main focus of this work is also on displaying potential queries to the database of the real Telegram application, using commands such as `SELECT`, as well as their combination with other commands, and the use of `SEQUENCE` and `TRIGGER`.
 
 ## ER-diagram
-![ER-diagram](https://github.com/dmytro-varich/Telegram-Social-Network-Database/blob/main/Telegram_Social_Network_Database-ER-diagram.drawio.png)   
+![ER-diagram](https://github.com/dmytro-varich/Telegram-Social-Network-Database/blob/main/telegram_social_network_database-ER-diagram.png)   
 
 ## Relational Schema
-![Relational Schema](https://github.com/dmytro-varich/Telegram-Social-Network-Database/blob/main/Telegram_Social_Network_Database-Relational-Schema.drawio.png)
+![Relational Schema](https://github.com/dmytro-varich/Telegram-Social-Network-Database/blob/main/telegram_social_network_database-Relational-Schema.png)
 
 ## Conclusion
 The outcome of our work can be deemed successful as we have created a comprehensive database and populated it with fictitious data, thereby validating real-world scenarios for the Telegram application. One of our key objectives was to learn the fundamentals of relational database creation and validate this knowledge in practice. It is also worth noting that we adhered to the planned timelines, enabling us to confidently evaluate our work as excellent.
